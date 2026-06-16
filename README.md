@@ -8,7 +8,7 @@
 
 This repository contains the **LCDW (Localized Construction and Demolition Waste)** dataset, annotations, configuration files, and analysis code accompanying the paper. The LCDW dataset supports instance segmentation of CDW materials across 10 material classes.
 
-**Note:** This repository currently contains sample images of the dataset. The full dataset, along with the model config, checkpoint, detection error taxonomy, and explainability code, will be made publicly available upon paper acceptance.
+**Note:** This repository currently contains sample images of the dataset. The full dataset, along with the model configuration files, trained checkpoint, detection error taxonomy code, and D-RISE saliency map generation code, will be made publicly available upon paper acceptance.
 
 [Sample Dataset](https://drive.google.com/drive/folders/12xop4qWHE0VyaCYxD31KNy5o3cU5yvKY?usp=sharing)
 
