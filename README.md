@@ -1,6 +1,6 @@
 # LCDW - Localized Construction and Demolition Waste Dataset
 
-> **Paper Title:** *LCDW: A benchmark dataset for localized construction and demolition waste characterization and an explainability-based failure analysis framework*
+> **Paper Title:** *LCDW: A Benchmark Dataset and Explainable Error Taxonomy for Segmentation in Cluttered Construction Waste Scenes*
 
 ---
 
